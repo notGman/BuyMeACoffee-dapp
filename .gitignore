@@ -1,0 +1,6 @@
+./client/nodemodules
+./web3Contract/nodemodules
+nodemodules
+.env
+./client/.env
+./web3Contract/.env
